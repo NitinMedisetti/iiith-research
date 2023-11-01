@@ -1,12 +1,1 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Test</title>
-</head>
-<body>
-    <p>
-        bleh
-    </p>
-</body>
-</html>
+<p>Maybe this'll be what I'll lookback and be proud of</p>
